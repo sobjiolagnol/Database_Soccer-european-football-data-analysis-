@@ -1,0 +1,2 @@
+# Database_Soccer-european-football-data-analysis-
+Nous disposons d'une base de données de football qui provient de Kaggle. Il contient des données pour les matchs de football, les joueurs et les équipes de plusieurs pays européens de 2008 à 2016. Cet ensemble de données est assez vaste, j’étudie l’ensemble de données Soccer. Principalement, l’ensemble de données a 7 tables appelées « Pays », « Ligue », « Match », « Joueur », « Attributs du joueur », « Équipe » et « Attributs de l’équipe ».
